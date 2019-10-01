@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: PetXP
+## Author: waggz81
+## Notes: Draggable text frame for hunter pet experience
+## Version: 0.1
+
+main.lua
